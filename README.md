@@ -26,8 +26,8 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 - 🌐 **AI Tools Showcase Website**  
   A responsive web app showcasing AI tools  
-  ✅ Phase 1 completed (HTML & CSS, based on course requirements)  
-  🛠️ Phase 2 in progress (adding **JavaScript** and **Node.js** functionality)
+  ✅ **Phase 1:** (HTML & CSS, based on course requirements)  
+  🛠️ **Phase 2:** (adding **JavaScript** and **Node.js** functionality)
 
 ---
 
