@@ -1,16 +1,62 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
 
-<!--
-**marinobarnjak/marinobarnjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Marino Barnjak**, and I am a Computer Science student at the Faculty of Organization and Informatics, University of Zagreb.  
+I am a motivated and results-oriented IT student eager to take on a challenging role that supports my professional growth. I bring a solid foundation in programming  and interpersonal skills, along with a strong ability to work effectively, contribute to team success, and adapt within cross-functional environments. I'm enthusiastic about learning new technologies and stepping outside my comfort zone to explore new areas of the tech industry.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** C++, JavaScript, HTML, CSS  
+- **Backend & Tools:** Node.js, PostgreSQL, MS Access  
+- **Web Development:** Responsive design, accessibility, structured content, interactive UI elements (carousels, galleries, FAQ)
+- **Development Tools:** Visual Studio Code (VS Code), Visual Studio (VS) 
+
+---
+
+## 📁 Projects
+
+- 💰 **FinTrack – Personal Finance Management System**  
+  A multi-phase academic project for tracking personal income and expenses.  
+  ✅ **Phase 1:** *Software Requirements Specification* – defined system goals, functionalities, and user stories  
+  ✅ **Phase 2:** *Software Design Specification* – includes use case diagrams, sequence diagrams, class and activity diagrams  
+  🛠️ **Phase 3:** In development – implementation using **C#** and **.NET Framework**
+
+
+- 🌐 **AI Tools Showcase Website**  
+  A responsive web app showcasing AI tools  
+  ✅ Phase 1 completed (HTML & CSS, based on course requirements)  
+  🛠️ Phase 2 in progress (adding **JavaScript** and **Node.js** functionality)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering**, Major in Information and Business Systems  
+Faculty of Organization and Informatics, University of Zagreb  
+📅 Expected graduation: 2026
+
+---
+
+## 🌍 Languages
+
+- 🇭🇷 Croatian (native)  
+- 🇬🇧 English (fluent)
+
+---
+
+## 🤝 Soft Skills
+
+Organization · Teamwork · Problem Solving · Communication · Adaptability · Reliability
+
+---
+
+## 🔗 Contact
+
+📧 Email: marinobarnjak4@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/marino-barnjak-aa4326305)
+
+---
+
+Thanks for visiting my profile! 👨‍💻
