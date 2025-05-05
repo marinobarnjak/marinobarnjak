@@ -48,7 +48,7 @@ Faculty of Organization and Informatics, University of Zagreb
 
 ## 🤝 Soft Skills
 
-Organization · Teamwork · Problem Solving · Communication · Adaptability · Reliability
+Organization · Teamwork · Problem Solving · Communication · Adaptability · Reliability · Brainstorming 
 
 ---
 
