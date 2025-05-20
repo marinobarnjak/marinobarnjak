@@ -6,7 +6,7 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming Languages:** C++, JavaScript, HTML, CSS  
 - **Backend & Tools:** Node.js, PostgreSQL, MS Access  
@@ -15,48 +15,48 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ---
 
-## 📁 Projects
+## Projects
 
-- 💰 **FinTrack – Personal Finance Management System**  
+- **FinTrack – Personal Finance Management System**  
   A multi-phase academic project for tracking personal income and expenses.  
-  ✅ **Phase 1:** *Software Requirements Specification* – defined system goals, functionalities, and user stories  
-  ✅ **Phase 2:** *Software Design Specification* – includes use case diagrams, sequence diagrams, class and activity diagrams  
-  🛠️ **Phase 3:** In development – implementation using **C#** and **.NET Framework**
+  **Phase 1:** *Software Requirements Specification* – defined system goals, functionalities, and user stories  
+  **Phase 2:** *Software Design Specification* – includes use case diagrams, sequence diagrams, class and activity diagrams  
+  **Phase 3:** In development – implementation using **C#** and **.NET Framework**
 
 
-- 🌐 **AI Tools Showcase Website**  
+- **AI Tools Showcase Website**  
   A responsive web app showcasing AI tools  
-  ✅ **Phase 1:** HTML & CSS, based on course requirements  
-  🛠️ **Phase 2:** adding **JavaScript** and **Node.js** functionality
+  **Phase 1:** HTML & CSS, based on course requirements  
+  **Phase 2:** adding **JavaScript** and **Node.js** functionality
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Engineering**, Major in Information and Business Systems  
 Faculty of Organization and Informatics, University of Zagreb  
-📅 Expected graduation: 2026
+Expected graduation: 2026
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - 🇭🇷 Croatian (native)  
 - 🇬🇧 English (fluent)
 
 ---
 
-## 🤝 Soft Skills
+## Soft Skills
 
 Organization · Teamwork · Problem Solving · Communication · Adaptability · Reliability · Brainstorming 
 
 ---
 
-## 🔗 Contact
+## Contact
 
-📧 Email: marinobarnjak4@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/marino-barnjak-aa4326305)
+Email: marinobarnjak4@gmail.com  
+[LinkedIn Profile](https://www.linkedin.com/in/marino-barnjak-aa4326305)
 
 ---
 
-Thanks for visiting my profile! 👨‍💻
+Thanks for visiting my profile! 
