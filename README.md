@@ -42,7 +42,7 @@ Expected graduation: 2026
 ## Languages
 
 - 🇭🇷 Croatian (native)  
-- 🇬🇧 English (fluent)
+- 🇬🇧 English (proficient)
 
 ---
 
