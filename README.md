@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-My name is **Marino Barnjak**, and I am a Computer Science student at the Faculty of Organization and Informatics, University of Zagreb.  
+My name is **Marino Barnjak**, and I am a IT student at the Faculty of Organization and Informatics, University of Zagreb.  
 I am a motivated and results-oriented IT student eager to take on a challenging role that supports my professional growth. I bring a solid foundation in programming  and interpersonal skills, along with a strong ability to work effectively, contribute to team success, and adapt within cross-functional environments. I'm enthusiastic about learning new technologies and stepping outside my comfort zone to explore new areas of the tech industry.
 
 
@@ -33,7 +33,7 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Education
 
-**Bachelor of Engineering**, Major in Information and Business Systems  
+**University Bachelor of Informatics**, Major in Information and Business Systems  
 Faculty of Organization and Informatics, University of Zagreb  
 Expected graduation: 2026
 
