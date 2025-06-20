@@ -8,7 +8,7 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Technical Skills
 
-- **Programming Languages:** C++, JavaScript, HTML, CSS  
+- **Programming Languages:** C++, JavaScript, HTML, CSS, C# 
 - **Backend & Tools:** Node.js, PostgreSQL, MS Access  
 - **Web Development:** Responsive design, accessibility, structured content, interactive UI elements (carousels, galleries, FAQ)
 - **Development Tools:** Visual Studio Code (VS Code), Visual Studio (VS) 
