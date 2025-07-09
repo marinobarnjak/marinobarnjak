@@ -21,13 +21,13 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
   A multi-phase academic project for tracking personal income and expenses.  
   **Phase 1:** *Software Requirements Specification* – defined system goals, functionalities, and user stories  
   **Phase 2:** *Software Design Specification* – includes use case diagrams, sequence diagrams, class and activity diagrams  
-  **Phase 3:** In development – implementation using **C#** and **.NET Framework**
+  **Phase 3:** implementation using **C#** and **.NET Framework**
 
 
 - **AI Tools Showcase Website**  
   A responsive web app showcasing AI tools  
   **Phase 1:** HTML & CSS, based on course requirements  
-  **Phase 2:** adding **JavaScript** and **Node.js** functionality
+  **Phase 2:** added **JavaScript** and **Node.js** functionality
 
 ---
 
