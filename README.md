@@ -8,7 +8,7 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Technical Skills
 
-- **Programming Languages:** C++, JavaScript, HTML, CSS, C# 
+- **Programming Languages:** C++, JavaScript, HTML, CSS, C#, Python
 - **Backend & Tools:** Node.js, PostgreSQL, MS Access  
 - **Web Development:** Responsive design, accessibility, structured content, interactive UI elements (carousels, galleries, FAQ)
 - **Development Tools:** Visual Studio Code (VS Code), Visual Studio (VS) 
@@ -17,17 +17,21 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Projects
 
-- **FinTrack – Personal Finance Management System**  
-  A multi-phase academic project for tracking personal income and expenses.  
-  **Phase 1:** *Software Requirements Specification* – defined system goals, functionalities, and user stories  
-  **Phase 2:** *Software Design Specification* – includes use case diagrams, sequence diagrams, class and activity diagrams  
-  **Phase 3:** implementation using **C#** and **.NET Framework**
+### Tic-Tac-Toe Game with Minimax AI
+Python desktop game featuring a predictive AI opponent implemented using the Minimax algorithm, with a graphical user interface built in Tkinter.
 
+### Information System for Distillery and Sales Management
+Relational database system implemented in PostgreSQL with integrity constraints and SQL triggers, accompanied by a Python Tkinter prototype for managing sales and inventory data.
 
-- **AI Tools Showcase Website**  
-  A responsive web app showcasing AI tools  
-  **Phase 1:** HTML & CSS, based on course requirements  
-  **Phase 2:** added **JavaScript** and **Node.js** functionality
+### Responsive Web Application for AI Tools – AI Hub
+Responsive multi-page web application developed using HTML, CSS, JavaScript, and Node.js, focused on presenting and managing AI-related tools and content.
+
+### Personal Finance Management System – FinTrack
+Desktop application developed in C#/.NET, implementing core modules for transaction management and basic financial reporting.
+
+### Information System Analysis & Prototype Development for KB d.o.o.
+Information system analysis and Oracle APEX prototype designed to support supplier, customer, and inventory management processes.
+
 
 ---
 
