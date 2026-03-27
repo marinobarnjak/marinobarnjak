@@ -28,9 +28,6 @@ Responsive multi-page web application developed using HTML, CSS, JavaScript, and
 ### Personal Finance Management System – FinTrack
 Desktop application developed in C#/.NET, implementing core modules for transaction management and basic financial reporting.
 
-### Information System Analysis & Prototype Development for KB d.o.o.
-Information system analysis and Oracle APEX prototype designed to support supplier, customer, and inventory management processes.
-
 
 ---
 
