@@ -8,13 +8,16 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Technical Skills
 
-- **Programming Languages:** C++, JavaScript, HTML, CSS, Python
+- **Programming Languages:** Python, C++, JavaScript
 - **Backend & Tools:** Node.js, PostgreSQL, MS Access
 - **Development Tools:** Visual Studio Code (VS Code), Visual Studio (VS) 
 
 ---
 
 ## Projects
+
+### Personal Data Extractor API
+Developed a Python FastAPI application for extracting and validating personal data from free-form text, with support for sessions, partial input handling, and automated tests.
 
 ### Tic-Tac-Toe Game with Minimax AI
 Python desktop game featuring a predictive AI opponent implemented using the Minimax algorithm, with a graphical user interface built in Tkinter.
@@ -24,10 +27,6 @@ Relational database system implemented in PostgreSQL with integrity constraints 
 
 ### Responsive Web Application for AI Tools – AI Hub
 Responsive multi-page web application developed using HTML, CSS, JavaScript, and Node.js, focused on presenting and managing AI-related tools and content.
-
-### Personal Finance Management System – FinTrack
-Desktop application developed in C#/.NET, implementing core modules for transaction management and basic financial reporting.
-
 
 ---
 
