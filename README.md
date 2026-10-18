@@ -34,7 +34,7 @@ Responsive multi-page web application developed using HTML, CSS, JavaScript, and
 
 **University Bachelor of Informatics**, Major in Information and Business Systems  
 Faculty of Organization and Informatics, University of Zagreb  
-Expected graduation: 2026
+Graduated: 2026
 
 ---
 
