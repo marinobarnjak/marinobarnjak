@@ -1,7 +1,10 @@
 ## Welcome to my GitHub profile 👋
 
-My name is **Marino Barnjak**, and I am a IT student at the Faculty of Organization and Informatics, University of Zagreb.  
-I am a motivated and results-oriented IT student eager to take on a challenging role that supports my professional growth. I bring a solid foundation in programming  and interpersonal skills, along with a strong ability to work effectively, contribute to team success, and adapt within cross-functional environments. I'm enthusiastic about learning new technologies and stepping outside my comfort zone to explore new areas of the tech industry.
+My name is **Marino Barnjak**, and I am an IT student at the Faculty of Organization and Informatics, University of Zagreb.
+
+I am a motivated IT student with a strong interest in **Backend Development and Python programming**. I am particularly interested in building REST APIs, working with relational databases, implementing business logic, and developing reliable and maintainable software solutions.
+
+I enjoy solving problems, exploring new technologies, and continuously improving my technical skills through hands-on projects. I value teamwork, adaptability, and professional growth, and I am always open to new challenges and opportunities in the tech industry.
 
 
 ---
