@@ -21,8 +21,12 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Projects
 
-### Personal Data Extractor API
+### Warehouse Management System (WMS)
+Backend application developed using Python, FastAPI, PostgreSQL, and SQLAlchemy for managing products, inventory, suppliers, and orders. Implements REST API endpoints, layered architecture, database transactions, concurrency control, custom exception handling, and automated testing with Pytest.
+
+### Personal Data Extractor API 
 Developed a Python FastAPI application for extracting and validating personal data from free-form text, with support for sessions, partial input handling, and automated tests.
+*Repository: Private*
 
 ### Tic-Tac-Toe Game with Minimax AI
 Python desktop game featuring a predictive AI opponent implemented using the Minimax algorithm, with a graphical user interface built in Tkinter.
@@ -30,16 +34,17 @@ Python desktop game featuring a predictive AI opponent implemented using the Min
 ### Information System for Distillery and Sales Management
 Relational database system implemented in PostgreSQL with integrity constraints and SQL triggers, accompanied by a Python Tkinter prototype for managing sales and inventory data.
 
-### Responsive Web Application for AI Tools – AI Hub
-Responsive multi-page web application developed using HTML, CSS, JavaScript, and Node.js, focused on presenting and managing AI-related tools and content.
-
 ---
 
 ## Education
 
-**University Bachelor of Informatics**, Major in Information and Business Systems  
+**University Bachelor of Informatics, Major in Information and Business Systems**  
 Faculty of Organization and Informatics, University of Zagreb  
 Graduated: 2026
+
+**Sofascore Academy – Backend Development**  
+SofaScore, Zagreb
+2026.
 
 ---
 
