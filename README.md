@@ -8,9 +8,14 @@ I am a motivated and results-oriented IT student eager to take on a challenging 
 
 ## Technical Skills
 
-- **Programming Languages:** Python, C++, JavaScript
-- **Backend & Tools:** Node.js, PostgreSQL, MS Access
-- **Development Tools:** Visual Studio Code (VS Code), Visual Studio (VS) 
+- **Programming Languages:** Python, C++, JavaScript, SQL
+- **Backend & Frameworks:** FastAPI, Node.js, SQLAlchemy, Pydantic
+- **Databases:** PostgreSQL, MS Access
+- **API Development:** REST API, Swagger, OpenAPI
+- **Testing & Migrations:** Pytest, Alembic
+- **Version Control:** Git, GitHub
+- **Backend Concepts:** OOP, Layered Architecture, Transaction Management, Concurrency Control, Data Validation, Exception Handling
+- **Development Tools:** Visual Studio Code, Visual Studio
 
 ---
 
